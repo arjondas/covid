@@ -10,4 +10,4 @@ Three Classes
   - Go to terminal and unzip ```unzip archive.zip```
   - Create virtualenv and install requirements ```pip install -r requirements.txt```
 
-![Alt text](//after_finetune.png?raw=true "Evaluation")
+![Finetuned](after_finetune.png?raw=true "Evaluation")
